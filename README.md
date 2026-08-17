@@ -11,7 +11,7 @@
    ```bash
    git clone https://github.com/ander-luro/task1-sprint2.git
 2. Press the button Start to initialize MySQL:
-   <img src="docs/xampp_mysql_start.png" alt="Diagrama Òptica" width="500">
+   <img src="docs/xampp_mysql_start.png" alt="Diagrama Òptica" width="500" style="display: block">
 3. Open the Shell:
    ![The button Shell](docs/xampp_shell.png)
 4. Open MariaDB terminal via XAMPP:
