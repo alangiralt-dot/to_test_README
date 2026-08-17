@@ -1,7 +1,11 @@
-# mysql-structure (Cul d'Ampolla Optician)
-**Description**: Design and data modeling of the relational database to manage clients, suppliers, employees, and custom-made prescription glasses sales for the "Cul d'Ampolla" optician shop.
+# mysql-structure
+This repository contains the design, relational data modeling, and strict structural optimization for two complete management systems:
 
-## Technologies
+*   **Cul d'Ampolla Optician**: Design and data modeling of the relational database to manage clients, suppliers, employees, and custom-made prescription glasses sales for the "Cul d'Ampolla" optician shop.
+*   **Pizzeria**: Design, normalisation, and scalable lookup table architecture for an e-commerce platform managing customer address details, multi-store employee task allocation (cooks and drivers), dynamic pizza profiling with categories, and strict one-to-one home delivery tracking.
+
+
+## Built With
 - Database: MySQL (v8.0+)
 - Character Set: utf8mb4
 - Design Tool: PlantUML
@@ -22,5 +26,6 @@
    ```sql
    SOURCE C:\xampp\htdocs\task1-sprint2\Level1\exercise1\optica.sql
    ```
-
-## Demo
+   ```sql
+   SOURCE C:\xampp\htdocs\task1-sprint2\Level1\exercise2\pizzeria.sql
+   ```
