@@ -16,12 +16,11 @@
    ![The button Shell](docs/xampp_shell.png)
 4. Open MariaDB terminal via XAMPP:
    ```bash
-   PERE@LAPTOP-UJ3EQ57O c:\xampp
-   # mysql -u root -p
+   mysql -u root -p
    ```
 5. Execute the SQL script:
    ```sql
-   MariaDB [(none)]> SOURCE C:\xampp\htdocs\task1-sprint2\Level1\exercise1\optica.sql
+   SOURCE C:\xampp\htdocs\task1-sprint2\Level1\exercise1\optica.sql
    ```
 
 ## Demo
